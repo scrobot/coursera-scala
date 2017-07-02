@@ -1,0 +1,20 @@
+compile
+test
+run
+import example.Lists._
+compile
+run
+compile
+run
+compile
+run
+test
+run
+compile
+run
+test
+compile
+test
+last test:test
+test
+submit scrobot91@gmail.com T4h05bAhOD4P5ER6
