@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- the intersection of the two given sets[0m[0m
+[0m[[0minfo[0m] [0m[32m- the difference of the two given sets[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter set by element[0m[0m
+[0m[[0minfo[0m] [0m[32m- forAll test[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists test[0m[0m
+[0m[[0minfo[0m] [0m[31m- map test *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  <function1> did not equal Set(2) map 1 (FunSetSuite.scala:173)[0m[0m
